@@ -7,4 +7,3 @@ about: Track work related to Active Directory account management
 - [ ] Test login & verify
 
 ## Screenshots
-![Access](./WIN 10 Access Management 1.png)
