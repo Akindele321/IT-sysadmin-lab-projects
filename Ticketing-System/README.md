@@ -10,4 +10,6 @@ Wi-Fi issues
 - [ ] Managing ticket states
 
 ## Screenshots
-
+![Ticketing-1](./ticketing-system-1.png)
+![Ticketing-2](./ticketing-system-2.png)
+![Ticketing-3](./ticketing-system-3.png)
