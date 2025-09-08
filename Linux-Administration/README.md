@@ -14,3 +14,16 @@ It includes enabling/disabling enforcement, inspecting SELinux contexts, and man
 - Managing SELinux users (`semanage login`)
 
 ## Screenshots
+![Linux-1](./linux-1.png)
+![Linux-2](./linux-2.png)
+![Linux-3](./linux-3.png)
+![Linux-4](./linux-4.png)
+![Linux-5](./linux-5.png)
+![Linux-6](./linux-6.png)
+![Linux-7](./linux-7.png)
+![Linux-8](./linux-.8png)
+![Linux-9](./linux-9.png)
+![Linux-10](./linux-10.png)
+![Linux-11](./linux-11.png)
+
+
