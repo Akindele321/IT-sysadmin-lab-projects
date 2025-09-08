@@ -11,3 +11,7 @@ It highlights how Windows Update configurations are applied across the domain.
 - Ensuring compliance with security patching policies
 
 ## Screenshots
+![Group-Policy-Management-1](./group-policy-management-1.png)
+![Group-Policy-Management-2](./group-policy-management-2.png)
+![Group-Policy-Management-3](./group-policy-management-3.png)
+![Group-Policy-Management-4](./group-policy-management-4.png)
