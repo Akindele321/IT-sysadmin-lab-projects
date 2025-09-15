@@ -19,3 +19,6 @@ basic connectivity.
 - **IP Plan (example):**
 - 'VM1' - '10.0.0.10/24'
 - 'VM2' - '10.0.0.20/24'
+
+## Screenshots
+
