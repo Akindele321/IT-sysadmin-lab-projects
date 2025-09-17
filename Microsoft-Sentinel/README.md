@@ -9,3 +9,7 @@ Checking basic optimization and retention settings.
 - Viewing usage and retention policies in LAW
 
   ## Screenshots
+![Microsoft-Sentinel-1](./Microsoft-Sentinel-1.png)
+![Microsoft-Sentinel-2](./Microsoft-Sentinel-2.png)
+![Microsoft-Sentinel-3](./Microsoft-Sentinel-3.png)
+
