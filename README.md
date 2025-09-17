@@ -1,2 +1,2 @@
 # IT-sysadmin-lab-projects
-Active Directory, GPO, Linux, ServiceNow, VLAN
+Active Directory, GPO, Linux, ServiceNow, VLAN, Cloud
