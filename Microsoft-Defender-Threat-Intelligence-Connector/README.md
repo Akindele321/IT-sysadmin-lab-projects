@@ -9,3 +9,6 @@ Demonstrating how to connect Microsoft Defender Threat Intelligence (MDTI) into 
 - Exploring installed content: connectors, STIX/TAXII support, hunting queries, mappings
 
 # Screenshots
+![Microsoft-Defender-Threat-1](./Microsoft-Defender-Threat-1.png)
+![Microsoft-Defender-Threat-2](./Microsoft-Defender-Threat-2.png)
+![Microsoft-Defender-Threat-3](./Microsoft-Defender-Threat-3.png)
