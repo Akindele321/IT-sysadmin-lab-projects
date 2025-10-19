@@ -15,4 +15,13 @@ This exercise demonstrates end-to-end incident handling within **Microsoft Defen
 The *Solorigate Network Beacon* detection highlights how Defender integrates with Microsoft Sentinel for deeper investigation, threat hunting, and response workflows.
 
 ## Screenshots
+![incident-1](./incident-1.png)
+![incident-2](./incident-2.png)
+![incident-3](./incident-3.png)
+![incident-4](./incident-4.png)
+![incident-5](./incident-5.png)
+
+
+
+
 
