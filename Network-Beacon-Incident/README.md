@@ -1,6 +1,6 @@
 # Investigating the *Solorigate Network Beacon* Incident in Microsoft Defender
 
-Demonstrating how to investigate and manage incidents in **Microsoft Defender** — specifically analyzing the *Solorigate Network Beacon* detection.  
+Demonstrating how to investigate and manage incidents in **Microsoft Defender** specifically analyzing the *Solorigate Network Beacon* detection.  
 This walkthrough covers incident triage, evidence review, and enrichment steps within the Microsoft 365 Defender portal.
 
 ## Objectives
