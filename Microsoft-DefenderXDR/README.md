@@ -8,3 +8,12 @@ Demonstrating incident analysis and role management in **Microsoft Defender XDR*
 - Use **Advanced Hunting (KQL)** for deeper investigation  
 - Manage **RBAC roles** for Tier 1 and Tier 2 analysts  
 
+## Screenshots
+![Defender1](./Defender1.png)
+![Defender2](./Defender2.png)
+![Defender3](./Defender3.png)
+![Defender4](./Defender4.png)
+![Defender5](./Defender5.png)
+
+
+
