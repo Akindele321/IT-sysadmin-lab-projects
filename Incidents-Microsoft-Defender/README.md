@@ -20,3 +20,12 @@ Automated response isolated one compromised account and blocked registry edits l
 
 ## Screenshots
 ![Microsoft1](./Microsoft1.png)
+![Microsoft2](./Microsoft2.png)
+![Microsoft3](./Microsoft3.png)
+![Microsoft4](./Microsoft4.png)
+![Microsoft5](./Microsoft5.png)
+![Microsoft6](./Microsoft6.png)
+
+
+
+
