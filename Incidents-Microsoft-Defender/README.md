@@ -19,4 +19,4 @@ Automated response isolated one compromised account and blocked registry edits l
 - Device and user both contained by automated response
 
 ## Screenshots
-![Microsoft-1](./Microsoft-1.png)
+![Microsoft1](./Microsoft1.png)
