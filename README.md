@@ -1,2 +1,2 @@
-# IT-sysadmin-lab-projects
+# IT-network engineer-lab-projects
 Active Directory, GPO, Linux, ServiceNow, VLAN, Cloud
