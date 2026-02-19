@@ -29,8 +29,7 @@ The goal was to simulate a small home network DNS filtering solution while pract
 Configured basic networking and confirmed connectivity.
 
 ### 2️⃣ Installed Pi-hole
-```bash
-curl -sSL https://install.pi-hole.net | bash
+
 
 ![piblock-1](piblock-1.png)
 ![piblock-2](piblock-2.png)
