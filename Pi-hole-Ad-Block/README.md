@@ -33,7 +33,7 @@ Configured basic networking and confirmed connectivity.
 curl -sSL https://install.pi-hole.net | bash
 
 ## Screenshots
-![piblock-1](./piblock-1.png)
-![piblock-2](./piblock-2.png)
+![piblock-1](piblock-1.png)
+![piblock-2](piblock-2.png)
 
 
